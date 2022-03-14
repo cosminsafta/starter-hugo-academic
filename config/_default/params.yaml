@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: my_theme
+  theme_night: my_theme
   font: minimal
-  font_size: L
+  font_size: m
 
 # SEO
 
@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Cosmin Safta. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -75,7 +75,7 @@ features:
     branch: master
   avatar:
     gravatar: false
-    shape: circle
+    shape: square 
   comment:
     provider: ''
     disqus:
