@@ -22,28 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
+  - title: (Senior/Principal/Distinguished) Member of Technical Staff
+    company: Sandia National Laboratories
+    company_url: 'www.sandia.gov'
+    company_logo: 
     location: California
-    date_start: '2021-01-01'
+    date_start: '2009-07-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+          * Developing state-of-the-art algorithms for uncertainty quantification and statistical learning for large scale computational models of physical phenomena,
+          * Deploying software for various tasks in model development and data analysis pipeline, including uncertainty propagation, model calibration and statistical analysis.
+          * Leading and participating in research proposals and scientific projects,
+          * Hiring and mentorship of postdoctoral appointees and summer students.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
+  - title: Postdoctoral Researcher
+    company: Sandia National Laboratories
+    company_url: 'www.sandia.gov'
+    company_logo: 
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2007-01-01'
+    date_end: '2009-07-01'
+    description: High-order adaptive mesh refinement algorithms for chemical reacting flows. Designed and published the first high-order discretization scheme for low-speed combustion applications. 
+
+  - title: Postdoctoral Researcher \& Research Engineer
+    company: SUNY Stony Brook and TTC Technologies
+    company_url: ''
+    company_logo: 
+    location: Long Island, NY
+    date_start: '2004-10-01'
+    date_end: '2006-12-01'
+    description: Algorithms for turbulence-combustion coupling in reacting flow simulations. Algorithm developments were transitioned to the Air Force Research Laboratory.
 
 design:
   columns: '2'
