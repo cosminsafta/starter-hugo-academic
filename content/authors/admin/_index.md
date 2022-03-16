@@ -49,12 +49,11 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/cosmin-safta-7b463013/
-
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
+#   icon_pack: fab
 #   link: uploads/safta_cv_2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
