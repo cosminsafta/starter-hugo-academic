@@ -22,7 +22,7 @@ content:
     street: 7011 East Avenue
     city: Livermore
     region: CA
-    postcode: '94588'
+    postcode: '94550'
     country: United States
     country_code: US
 
