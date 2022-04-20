@@ -63,6 +63,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a Distinguished Member of Technical Staff at Sandia National Laboratories. My research focuses on computational science with 20+ years of experience in developing algorithms for a large set of applications. I am involved in and leading research projects pertaining to uncertainty quantification and machine learning in combustion, climate modeling, biosurveillance, power grids, material science, stochastic network models, and re-entry vehicle trajectories. Recently, I became interested in statistical modeling related to adversarial aspects in machine learning.
+I am a Distinguished Member of Technical Staff at Sandia National Laboratories. My research focuses on computational science with 20+ years of experience in developing algorithms for a large set of applications. I am involved in and leading research projects pertaining to uncertainty quantification and machine learning in combustion, climate modeling, biosurveillance, power grids, material science, stochastic network models, and re-entry vehicle trajectories, as well as statistical modeling related to adversarial aspects in machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/safta_cv_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
