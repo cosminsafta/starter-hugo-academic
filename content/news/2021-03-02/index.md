@@ -5,7 +5,6 @@ subtitle:
 # Summary for listings and search engines
 summary: https://www.wccm2022.org
 
-
 # Link this post with a project
 projects: []
 
