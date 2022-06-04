@@ -1,5 +1,5 @@
 ---
-title: Co-organizing minisymposium on "Alleviating data sparsity in training of machine learning models/from transfer learning to multi-fidelity approaches" at SIAM-MDS22
+title: Co-organizing minisymposium on "Transfer Learning and Multi-Fidelity Approaches to Alleviate Data Sparsity in Machine Learning" at SIAM-MDS22
 
 subtitle: 
 
