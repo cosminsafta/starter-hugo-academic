@@ -1,0 +1,14 @@
+@article{Kim_2023,
+title = {TChem: A performance portable parallel software toolkit for complex kinetic mechanisms},
+journal = {Computer Physics Communications},
+volume = {285},
+pages = {108628},
+year = {2023},
+issn = {0010-4655},
+doi = {https://doi.org/10.1016/j.cpc.2022.108628},
+url = {https://www.sciencedirect.com/science/article/pii/S0010465522003472},
+author = {Kyungjoo Kim and Oscar H. Díaz-Ibarra and Habib N. Najm and Judit Zádor and Cosmin Safta},
+keywords = {TChem, Kokkos, Performance portability, GPU, Flow chemistry},
+abstract = {We present TChem, a performance portable software toolkit to enable the analysis of complex kinetic mechanisms. The software provides tools for gas-phase and surface chemistry, thermodynamic properties, and implements formulations for several canonical reactor models. Analytical derivatives necessary to construct Jacobian matrices corresponding to all implemented functionalities are available through automatic differentiation. TChem uses the Kokkos framework to achieve portability across multiple heterogeneous computing platforms with a single version of the code. We implement a hierarchical parallelism framework to enable efficient chemical source term and thermodynamic property evaluations over the number of samples assigned to the local computing device. We analyze parallel efficiency results extracted from test cases for thermodynamic properties, source terms, and Jacobians evaluations on Intel Xeon CPUs and NVIDIA Volta GPUs.
+}
+}
